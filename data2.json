@@ -1,0 +1,37 @@
+{
+  "question": [
+    "Q1 What is part of a database that holds only one type of information?",
+    "Q2 In which decade with the first transatlantic radio broadcast occur?",
+    "Q3. MOV' extension refers usually to what kind of file?",
+    "Q4. Changing computer language of 1's and 0's to characters that a person can understand is..."
+  ],
+  "answer": [
+    2,
+    4,
+    2,
+    3
+  ],
+  "options": [
+
+    ["Report",
+      "Field",
+      "Record",
+      "File"
+    ],
+    ["1850s",
+      "1860s",
+      "1870s",
+      "1900s"
+    ],
+    ["Image file",
+      "Animation/movie file",
+      " Audio file",
+      "MS Office document"
+    ],
+    ["Highlight",
+      "Clip art",
+      "Decode",
+      "Execute"
+    ]
+  ]
+}
